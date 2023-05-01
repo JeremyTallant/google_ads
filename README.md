@@ -23,4 +23,4 @@ If you don't have a Jupyter environment set up, you can install Jupyter Notebook
 5. **Add a campaign column:** Add a column to include the campaign name.
 6. **Create the match type column:** Add a column to include the match criterion.
 7. **Duplicate all the keywords into 'phrase' match:** Create phrase match keywords.
-8. Save and summarize!
+8. **Save and summarize!:** Save the DataFrame to a CSV file.
