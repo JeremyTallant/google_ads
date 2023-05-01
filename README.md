@@ -19,7 +19,7 @@ If you don't have a Jupyter environment set up, you can install Jupyter Notebook
 1. **The brief:** Create a list of words to pair with products.
 2. **Combine the words with the product names:** Combine words and products.
 3. **Convert the list of lists into a DataFrame:** Convert the list into a DataFrame.
-4. Rename the columns of the DataFrame
+4. **Rename the columns of the DataFrame:** Give `keyword_df` more descriptive column names.
 5. Add a campaign column
 6. Create the match type column
 7. Duplicate all the keywords into 'phrase' match
