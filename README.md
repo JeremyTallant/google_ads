@@ -16,7 +16,7 @@ If you don't have a Jupyter environment set up, you can install Jupyter Notebook
 
 2. Ensure you have Python installed. If not, you can download and install Python from the [official Python website](https://www.python.org/downloads/).
 ## Contents
-1. The brief
+1. **The brief:** Create a list of words to pair with products.
 2. Combine the words with the product names
 3. Convert the list of lists into a DataFrame
 4. Rename the columns of the DataFrame
